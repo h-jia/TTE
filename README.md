@@ -10,8 +10,6 @@ TinyTTA Engine is a lightweight framework for enabling Test-Time Adaptation (TTA
 
 The framework is specifically designed to operate within the resource constraints of edge devices while enabling model adaptation capabilities.
 
-**Note**: Fully public release of the code is coming soon! Stay tuned for updates.
-
 If you have any questions please email at hong.jia@unimelb.edu.au and ydk21@cam.ac.uk
 
 If you find this code useful for your research, please consider citing the following papers:
